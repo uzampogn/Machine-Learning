@@ -2,7 +2,7 @@
 
 This folder includes:
   - Personal repository of notebooks which can be shared publicly. 
-  - List of state-of-the-art ML ressources:
+  - List of state-of-the-art ML resources:
       - https://paperswithcode.com - Browse State-of-the-Art algorithms
       - https://papers.labml.ai/papers/weekly - ML Papers feed
       - https://www.amazon.science/publications - Amazon Science Publications
