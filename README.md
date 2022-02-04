@@ -9,3 +9,4 @@ This folder includes:
       - https://ai.googleblog.com/ - Google AI Blog - based on https://research.google/ - Google Research Publications
       - https://arxiv.org/ - Academic papers
       - http://d2l.ai/chapter_preface/index.html - Deep Learning resources
+      - https://dblp.org/ - Computer Science Bibliography
