@@ -12,4 +12,4 @@ This folder includes:
       - http://d2l.ai/chapter_preface/index.html - Deep Learning resources
       - https://dblp.org/ - Computer Science Bibliography
   - Articles:
-      - How The New York Times Uses Machine Learning To Make Its Paywall Smarter - [!Link](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8)
+      - How The New York Times Uses Machine Learning To Make Its Paywall Smarter - [Link](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8)
